@@ -1,1 +1,3 @@
-# Dogan-S
+Bu çalışmada geri yayılımlı yapay sinir ağı modeli kullanılarak, rakam fotoğraflarından oluşan The MNIST database of handwritten digits isimli veri seti yardımıyla sınıflandırma yapılmıştır.Veri seti eğitim, onaylama ve test aşamasında kullanılmak üzere üç parçaya ayırılmıştır. Bu veriler her biri 28 satır ve sütundan oluşan matris şeklindeki görüntülerdir.Model Python 3.6 üzerinde kurulmuş ve test edilmiştir.
+
+In this study, using the back propagation artificial neural network model, the classification was made with the help of the data set named The MNIST database of handwritten digits, which consists of numeral photographs. The data set was divided into three parts to be used in training, validation and testing stages. This data is a matrix-shaped image of 28 rows and columns each. The model was built and tested on Python 3.6.
